@@ -44,10 +44,10 @@ Use force to overwrite Laravel Scaffolding packages. That's all! Open the Larave
 
 Once package installed you have to follow the usual steps of any laravel project to Login to the admin interface:
 
-- Create a database. I recommend the use of laravel Homestead ()
+- Create a database. I recommend use of laravel Homestead
 - Create .env file and configure database acces (database name, password, etc)
 - Run migrations with command $ php artisan migrate
-- Registera a first user and Login with it
+- Register a first user and Login with it
 
 ##AdminLTE
 
